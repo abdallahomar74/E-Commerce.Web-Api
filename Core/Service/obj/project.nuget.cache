@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cgBUsQZa1XU=",
+  "dgSpecHash": "ajSfQChjbf0=",
   "success": true,
-  "projectFilePath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TAG\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\TAG\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

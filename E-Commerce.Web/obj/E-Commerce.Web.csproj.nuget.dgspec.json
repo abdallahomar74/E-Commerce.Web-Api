@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\E-Commerce.Web\\E-Commerce.Web.csproj": {}
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\E-Commerce.Web\\E-Commerce.Web.csproj": {}
   },
   "projects": {
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj",
         "projectName": "ServiceAbstraction",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Shared\\Shared.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Shared\\Shared.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Shared\\Shared.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,11 +166,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj"
               },
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj"
               }
             }
           }
@@ -220,14 +220,14 @@
         }
       }
     },
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\E-Commerce.Web\\E-Commerce.Web.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\E-Commerce.Web\\E-Commerce.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\E-Commerce.Web\\E-Commerce.Web.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\E-Commerce.Web\\E-Commerce.Web.csproj",
         "projectName": "E-Commerce.Web",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\E-Commerce.Web\\E-Commerce.Web.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\E-Commerce.Web\\E-Commerce.Web.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\E-Commerce.Web\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\E-Commerce.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -248,11 +248,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj"
               },
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Presentation\\Presentation.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Presentation\\Presentation.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Presentation\\Presentation.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Presentation\\Presentation.csproj"
               }
             }
           }
@@ -307,14 +307,14 @@
         }
       }
     },
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -335,8 +335,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj"
               }
             }
           }
@@ -382,14 +382,14 @@
         }
       }
     },
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Presentation\\Presentation.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Presentation\\Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Presentation\\Presentation.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Presentation\\Presentation.csproj",
         "projectName": "Presentation",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Presentation\\Presentation.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Presentation\\Presentation.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Presentation\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Presentation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -410,8 +410,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
-                "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj"
+              "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj": {
+                "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\ServiceAbstraction\\ServiceAbstraction.csproj"
               }
             }
           }
@@ -454,14 +454,14 @@
         }
       }
     },
-    "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Shared\\Shared.csproj": {
+    "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Shared\\obj\\",
+        "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

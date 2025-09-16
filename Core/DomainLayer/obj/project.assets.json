@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj",
+      "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj",
       "projectName": "DomainLayer",
-      "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\DomainLayer.csproj",
+      "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\DomainLayer.csproj",
       "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\DomainLayer\\obj\\",
+      "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\DomainLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -10,15 +10,3 @@ C:\Users\TAG\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\Domai
 C:\Users\TAG\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
 C:\Users\TAG\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
 C:\Users\TAG\source\repos\E-Commerce.Web\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
-D:\GitHub-Repository\E-Commerce.Web-Api\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll

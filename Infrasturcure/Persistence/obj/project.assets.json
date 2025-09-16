@@ -2871,11 +2871,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\TAG\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Infrasturcure\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Infrasturcure\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2896,8 +2896,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj": {
-              "projectPath": "D:\\GitHub-Repository\\E-Commerce.Web-Api\\Core\\Service\\Service.csproj"
+            "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\TAG\\source\\repos\\E-Commerce.Web\\Core\\Service\\Service.csproj"
             }
           }
         }
