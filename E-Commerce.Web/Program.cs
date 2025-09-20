@@ -10,6 +10,11 @@ using AutoMapper;
 using ServiceAbstraction;
 using Service;
 using Persistence.Repositories;
+using E_Commerce.Web.CustomMiddleWares;
+using Microsoft.AspNetCore.Mvc;
+using Shared.ErrorModels;
+using E_Commerce.Web.Factories;
+using E_Commerce.Web.Extensions;
 
 namespace E_Commerce.Web
 {
@@ -21,35 +26,25 @@ namespace E_Commerce.Web
 
             #region Add services to the container
             builder.Services.AddControllers();
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-            builder.Services.AddDbContext<StoreDbContext>(options =>
-            {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-            });
-            builder.Services.AddScoped<IDataSeeding, DataSeeding>();
-            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-            builder.Services.AddAutoMapper(typeof(Service.AssemblyReference).Assembly);
-            builder.Services.AddScoped<IServiceManger, ServiceManger>();
+            builder.Services.AddSwaggerServices();
 
+            builder.Services.AddInfrastructureServices(builder.Configuration);
+            builder.Services.AddApplicationServices();
+            builder.Services.AddWebApplicationServices();
             #endregion
 
             var app = builder.Build();
             #region DataSeeding
 
-            using var Scoope = app.Services.CreateScope();
-
-            var ObjectOfDataSeeding = Scoope.ServiceProvider.GetRequiredService<IDataSeeding>();
-
-            await ObjectOfDataSeeding.DataSeedingAsync();
+            await app.SeedDataBaseAsync();
 
             #endregion
 
             #region Configure the HTTP request pipeline.
+            app.UseCustomExceptionMiddleWare();
             if (app.Environment.IsDevelopment())
             {
-                app.UseSwagger();
-                app.UseSwaggerUI();
+                app.UseSwaggerMiddleWare();
             }
 
             app.UseHttpsRedirection();

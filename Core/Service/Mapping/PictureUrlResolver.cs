@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
-using DomainLayer.Models;
-using Shared.DataTransferObjects;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
+using DomainLayer.Models.ProductModule;
+using Shared.DataTransferObjects.ProductModuleDtos;
 
 namespace Service.Mapping
 {

@@ -1,10 +1,11 @@
 ﻿using AutoMapper;
 using DomainLayer.Contracts;
-using DomainLayer.Models;
+using DomainLayer.Exceptions;
+using DomainLayer.Models.ProductModule;
 using Service.Specifications;
 using ServiceAbstraction;
 using Shared;
-using Shared.DataTransferObjects;
+using Shared.DataTransferObjects.ProductModuleDtos;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -47,6 +48,10 @@ namespace Service
             var specification = new ProductWithBrandAndTypeSpecifications(id);
             var Repo = _unitOfWork.GetRepository<Product, int>();
             var Product = await Repo.GetByIdAsync(specification);
+            if (Product == null)
+            {
+                throw new ProductNotFoundExceptions(id);
+            }
             var ProductsDto = _mapper.Map<Product, ProductDto>(Product);
             return ProductsDto;
         }
