@@ -35,7 +35,7 @@ namespace E_Commerce.Web.CustomMiddleWares
                 
                 ErrorMessage = ex.Message
             };
-            context.Response.StatusCode = ex switch
+            Response.StatusCode = ex switch
             {
                 NotFoundExpceptions => StatusCodes.Status404NotFound,
                 UnauthorizedException => StatusCodes.Status401Unauthorized,
